@@ -58,11 +58,13 @@ A data analysis project focused on uncovering **sales, profitability, customer, 
 
 ---
 
-## 📂 Other Repositories
+## 📂 Other Projects
 
-| Repository | Description |
-|---|---|
-| [umt-login-page](https://github.com/abdulrehmanml/umt-login-page) | HTML login page inspired by the UMT student portal |
+### 🌐 UMT Login Page
+
+HTML-based login page inspired by the UMT student portal interface.
+
+[View Repository →](https://github.com/abdulrehmanml/umt-login-page)
 
 ---
 
