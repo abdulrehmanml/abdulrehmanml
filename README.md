@@ -66,7 +66,7 @@ HTML-based login page inspired by the UMT student portal interface.
 
 [View Repository](https://github.com/abdulrehmanml/umt-login-page)
 
-[View Live Demo →](https://abdulrehmanml.github.io/umt-login-page/)
+[View Live Demo](https://abdulrehmanml.github.io/umt-login-page/)
 
 ---
 
