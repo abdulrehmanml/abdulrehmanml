@@ -40,7 +40,7 @@ The project also uses GPT for **qualitative validation and explanation**, while 
 [![Repository](https://img.shields.io/badge/GitHub-Sentiment%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/sentiment-analysis-system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://sentiment-analysis-system-nlp.streamlit.app/)
 
-<img src="assets/sentiment-analysis.png" alt="Sentiment Analysis System" width="850"/>
+<img src="assets/sentiment_analysis_app.png" alt="Sentiment Analysis System" width="850"/>
 
 ---
 
@@ -54,7 +54,7 @@ A data analysis project focused on uncovering **sales, profitability, customer, 
 
 [![Repository](https://img.shields.io/badge/GitHub-E--commerce%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/ecommerce-sales-profitability-analysis)
 
-<img src="assets/monthly-sales-trend.png" alt="Monthly Sales Trend" width="850"/>
+<img src="assets/monthly_sales_trend.png" alt="Monthly Sales Trend" width="850"/>
 
 ---
 
