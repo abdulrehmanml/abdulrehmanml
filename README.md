@@ -35,12 +35,12 @@ An end-to-end **3-class sentiment analysis system** for social-media text using 
 **Classes:** Positive • Negative • Neutral  
 **Deployment:** Streamlit
 
-The project also uses GPT for **qualitative validation and explanation**, while sentiment prediction remains ML-based. :contentReference[oaicite:0]{index=0}
+The project also uses GPT for **qualitative validation and explanation**, while sentiment prediction remains ML-based.
 
 [![Repository](https://img.shields.io/badge/GitHub-Sentiment%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/sentiment-analysis-system)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://sentiment-analysis-system-nlp.streamlit.app/)
 
-<img src="images/sentiment-analysis.png" alt="Sentiment Analysis System" width="850"/>
+<img src="assets/sentiment-analysis.png" alt="Sentiment Analysis System" width="850"/>
 
 ---
 
@@ -54,7 +54,7 @@ A data analysis project focused on uncovering **sales, profitability, customer, 
 
 [![Repository](https://img.shields.io/badge/GitHub-E--commerce%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/ecommerce-sales-profitability-analysis)
 
-<img src="images/monthly-sales-trend.png" alt="Monthly Sales Trend" width="850"/>
+<img src="assets/monthly-sales-trend.png" alt="Monthly Sales Trend" width="850"/>
 
 ---
 
