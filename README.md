@@ -80,6 +80,14 @@ HTML-based login page inspired by the UMT student portal interface.
 
 [View Live Demo](https://abdulrehmanml.github.io/umt-login-page/)
 
+### 📄 AI/ML CV
+
+My CV covering AI/ML, Data Science, technical skills, and selected projects.
+
+[View CV](https://abdulrehmanml.github.io/abdul-rehman-cv/)  
+
+[Download PDF](https://github.com/abdulrehmanml/abdul-rehman-cv/blob/main/Abdul-Rehman-CV.pdf)
+
 ---
 
 ## 🎯 Current Focus
