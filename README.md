@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Abdul Rehman 👋
 
-<!--
-**abdulrehmanml/abdulrehmanml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence Undergraduate | Machine Learning | Deep Learning | NLP | Data Science
 
-Here are some ideas to get you started:
+Building and exploring **AI/ML systems and data-driven applications** with Python, focusing on Machine Learning, Deep Learning, Natural Language Processing, RAG, and Data Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,github,git,tensorflow,sklearn" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+**AI / ML:** Scikit-learn • TensorFlow • NLP • RAG  
+**Data:** Pandas • NumPy • Matplotlib • Seaborn  
+**Development:** Python • SQL • Git • GitHub • Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Sentiment Analysis System
+
+An end-to-end **3-class sentiment analysis system** for social-media text using traditional machine learning and NLP techniques.
+
+**Pipeline:** Text Preprocessing → TF-IDF → Model Training → Evaluation → Streamlit Deployment
+
+**Models:** Logistic Regression • Multinomial Naive Bayes  
+**NLP:** TF-IDF with unigrams and bigrams  
+**Classes:** Positive • Negative • Neutral  
+**Deployment:** Streamlit
+
+The project also uses GPT for **qualitative validation and explanation**, while sentiment prediction remains ML-based. :contentReference[oaicite:0]{index=0}
+
+[![Repository](https://img.shields.io/badge/GitHub-Sentiment%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/sentiment-analysis-system)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://sentiment-analysis-system-nlp.streamlit.app/)
+
+<img src="images/sentiment-analysis.png" alt="Sentiment Analysis System" width="850"/>
+
+---
+
+### 📊 E-commerce Sales & Profitability Analysis
+
+A data analysis project focused on uncovering **sales, profitability, customer, product, regional, and discount-related patterns** from transaction data.
+
+**Analysis:** EDA • Feature Engineering • Sales Trends • Customer Analysis • Product Analysis • Regional Analysis • Correlation Analysis
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
+
+[![Repository](https://img.shields.io/badge/GitHub-E--commerce%20Analysis-181717?style=for-the-badge&logo=github)](https://github.com/abdulrehmanml/ecommerce-sales-profitability-analysis)
+
+<img src="images/monthly-sales-trend.png" alt="Monthly Sales Trend" width="850"/>
+
+---
+
+## 📂 Other Repositories
+
+| Repository | Description |
+|---|---|
+| [umt-login-page](https://github.com/abdulrehmanml/umt-login-page) | HTML login page inspired by the UMT student portal |
+
+---
+
+## 🎯 Current Focus
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Retrieval-Augmented Generation
+- Data Science & Data Analysis
+- Building practical AI/ML applications
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Rehman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-rehmanmughal)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:hello.arehmanmughal@gmail.com)
+
+---
+
+### ⚡ Building, learning, and turning AI concepts into working systems.
